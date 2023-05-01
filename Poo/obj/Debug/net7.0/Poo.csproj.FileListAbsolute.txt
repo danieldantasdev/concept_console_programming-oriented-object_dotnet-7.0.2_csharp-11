@@ -1,0 +1,15 @@
+/home/danieldantasdev/RiderProjects/Poo/Poo/bin/Debug/net7.0/Poo
+/home/danieldantasdev/RiderProjects/Poo/Poo/bin/Debug/net7.0/Poo.deps.json
+/home/danieldantasdev/RiderProjects/Poo/Poo/bin/Debug/net7.0/Poo.runtimeconfig.json
+/home/danieldantasdev/RiderProjects/Poo/Poo/bin/Debug/net7.0/Poo.dll
+/home/danieldantasdev/RiderProjects/Poo/Poo/bin/Debug/net7.0/Poo.pdb
+/home/danieldantasdev/RiderProjects/Poo/Poo/obj/Debug/net7.0/Poo.csproj.AssemblyReference.cache
+/home/danieldantasdev/RiderProjects/Poo/Poo/obj/Debug/net7.0/Poo.GeneratedMSBuildEditorConfig.editorconfig
+/home/danieldantasdev/RiderProjects/Poo/Poo/obj/Debug/net7.0/Poo.AssemblyInfoInputs.cache
+/home/danieldantasdev/RiderProjects/Poo/Poo/obj/Debug/net7.0/Poo.AssemblyInfo.cs
+/home/danieldantasdev/RiderProjects/Poo/Poo/obj/Debug/net7.0/Poo.csproj.CoreCompileInputs.cache
+/home/danieldantasdev/RiderProjects/Poo/Poo/obj/Debug/net7.0/Poo.dll
+/home/danieldantasdev/RiderProjects/Poo/Poo/obj/Debug/net7.0/refint/Poo.dll
+/home/danieldantasdev/RiderProjects/Poo/Poo/obj/Debug/net7.0/Poo.pdb
+/home/danieldantasdev/RiderProjects/Poo/Poo/obj/Debug/net7.0/Poo.genruntimeconfig.cache
+/home/danieldantasdev/RiderProjects/Poo/Poo/obj/Debug/net7.0/ref/Poo.dll
